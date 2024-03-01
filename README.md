@@ -8,3 +8,5 @@ Dataset corpus
 Construct the dataset, train the model, adjust the parameter
 
 Model thinking course
+
+New model thinking course
