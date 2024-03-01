@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2433ec69-149f-454b-b289-c668a41b3bde" name="Default Changelist" comment="Load dataset">
-      <change afterPath="F:/NER_IDP/.idea/NER_IDP.iml" afterDir="false" />
-      <change afterPath="F:/NER_IDP/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="F:/NER_IDP/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="F:/NER_IDP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="F:/NER_IDP/.idea/modules.xml" afterDir="false" />
-      <change afterPath="F:/NER_IDP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="F:/NER_IDP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="F:/NER_IDP/NER1.py" beforeDir="false" afterPath="F:/NER_IDP/NER1.py" afterDir="false" />
-    </list>
+    <list default="true" id="2433ec69-149f-454b-b289-c668a41b3bde" name="Default Changelist" comment="Load dataset2,3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709297497247</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Load dataset2,3">
+      <created>1709299339169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709299339169</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Load dataset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Load dataset" />
+    <MESSAGE value="Load dataset2,3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Load dataset2,3" />
   </component>
 </project>
