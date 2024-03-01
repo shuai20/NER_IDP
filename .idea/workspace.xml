@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2433ec69-149f-454b-b289-c668a41b3bde" name="Default Changelist" comment="Load dataset4">
+    <list default="true" id="2433ec69-149f-454b-b289-c668a41b3bde" name="Default Changelist" comment="Update README.md">
       <change beforePath="F:/NER_IDP/.idea/workspace.xml" beforeDir="false" afterPath="F:/NER_IDP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="F:/NER_IDP/README.md" beforeDir="false" afterPath="F:/NER_IDP/README.md" afterDir="false" />
     </list>
@@ -88,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709299428419</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update README.md">
+      <created>1709301027957</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709301027957</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update README.md">
+      <created>1709301164335</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709301164335</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +120,7 @@
     <MESSAGE value="Load dataset" />
     <MESSAGE value="Load dataset2,3" />
     <MESSAGE value="Load dataset4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Load dataset4" />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
 </project>
